@@ -8,7 +8,7 @@ diskcache
 einops
 facexlib
 fastapi>=0.90.1
-gradio==3.41.2
+gradio==4.37.1
 inflection
 jsonmerge
 kornia
@@ -29,5 +29,5 @@ tomesd
 torch
 torchdiffeq
 torchsde
-transformers==4.30.2
+transformers==4.38.0
 pillow-avif-plugin==1.4.3
